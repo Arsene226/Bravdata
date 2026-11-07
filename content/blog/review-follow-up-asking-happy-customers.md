@@ -6,6 +6,9 @@ date: 2026-11-05
 excerpt: "The routine for asking a pleased customer for a Google review — when to ask, who asks, what to say, and what Google's own rules forbid."
 description: "The routine for asking a happy customer for a Google review: the moment to ask, who asks, what to say, what Google's rules forbid, and a weekly habit."
 published: true
+image: "/blog-images/review-follow-up-asking-happy-customers.jpg"
+imageAlt: "An overhead view of a blank white sheet of paper on a wooden table, a dark red pen with a gold band resting on it, a white cup of black coffee to the left and a sprig of red berries and green leaves at the top edge."
+imageCredit: "Illustrative photo by kaboompics via Pixabay (https://pixabay.com/photos/blank-paper-pen-coffee-work-792125/)"
 ---
 
 You know the moment. The job is finished, the customer looks at the work and says "that was faster than I expected." That is the minute to ask for a review — not three weeks later in a bulk email that lands when they have half forgotten your name.
