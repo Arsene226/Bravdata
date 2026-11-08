@@ -24,7 +24,7 @@ A call to action beside that copy reads "Simplicity is aura."
 
 The navigation names six places — Home, Catalog, Contact, About us, Return policy, and Help & Questions — and the footer carries an email signup headed "Join the dialogue", next to a link to one Instagram account.
 
-The catalog names individual pieces rather than categories alone. Among the items it lists are the Noire Oversized One-Piece Boxy T-Shirt, the Noire Enzyme Washed T-Shirt, the Noire Mineral Wash Boxy Cotton T-Shirt, the Noire Men's Vintage Wash Denim Jeans, the Noire Essential Kids' Straight-Leg Sweatpants and the Noire Men's Loose Straight Leg Pants. The site's products sitemap lists 20 product addresses. Each item on the site carries a price; this post does not repeat any of them, because a spotlight is not a price list and a price can change the day after it is written.
+The catalog names individual pieces rather than categories alone. Among the items it lists are the Noire Oversized One-Piece Boxy T-Shirt, the Noire Enzyme Washed T-Shirt, the Noire Mineral Wash Boxy Cotton T-Shirt, the Noire Men's Vintage Wash Denim Jeans, the Noire Essential Kids' Straight-Leg Sweatpants and the Noire Men's Loose Straight Leg Pants. The site's products sitemap lists 20 product addresses. The items on the site are listed with prices; this post does not repeat any of them, because a spotlight is not a price list and a price can change the day after it is written.
 
 The contact route is a page at /pages/contact, which answered 200 when BravData requested it on 2026-11-07 and carries a form with name, email, phone and comment fields. The site's pages sitemap lists two page addresses in all: that contact page and /pages/data-sharing-opt-out.
 
