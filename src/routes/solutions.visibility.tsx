@@ -137,16 +137,10 @@ const content: SolutionContent = {
       question: "What do you mean by sampled AI-search observations?",
       answer: (
         <>
+          <p>{aiSearchObservationNote}</p>
           <p>
-            We ask AI-assisted search tools a small set of fixed questions about
-            your business and businesses like yours in your area, then record the
-            question, the date and what came back. It is a sample of what those
-            tools said on the days we looked.
-          </p>
-          <p>
-            It is not a ranking, not a score, and not a promise about what any
-            tool will say next month — those tools change often and nobody
-            controls them.
+            It is also not a promise about what any assistant will say next month
+            — those tools change often and nobody controls them.
           </p>
         </>
       ),
