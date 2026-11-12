@@ -7,8 +7,8 @@ excerpt: "You have one hour and something worth saying. The order we would spend
 description: "Your own site first, your Google Business Profile second, social last: the order we publish in, the reasoning, and what each one can and cannot do."
 published: true
 image: "/blog-images/where-to-publish-first-site-profile-or-social.jpg"
-imageAlt: "A laptop, a phone showing a photo, and an open notebook on a wooden desk, with a hand holding a blue pen over the page."
-imageCredit: "Illustrative photo by Firmbee via Pixabay (https://pixabay.com/photos/office-notes-notepad-entrepreneur-620817/)"
+imageAlt: "A blue cup of latte with heart-shaped latte art on a saucer, a blank spiral-bound notepad and a black pen on a wooden table."
+imageCredit: "Illustrative photo by Engin_Akyurt via Pixabay (https://pixabay.com/photos/coffee-pen-notebook-open-notebook-2306471/)"
 ---
 
 An owner sits down with an hour and something worth saying: a new service, a change of hours, a piece of advice a customer asked for twice this week. Where does it go first?
