@@ -75,6 +75,7 @@
     "verify:t2p-media-library": "bun run scripts/verify-t2p-media-library.ts",
     "verify:t2p-follow-up": "bun run scripts/verify-t2p-follow-up.ts",
     "verify:t2p-phase5": "bun run scripts/verify-t2p-phase5.ts",
+    "verify:discovery": "bun run scripts/verify-discovery.ts",
     "verify:stripe-webhook": "bun run scripts/verify-stripe-webhook.ts",
     "verify:client-provisioning": "bun run scripts/verify-client-provisioning.ts",
     "verify:setup-redeem": "bun run scripts/verify-setup-redeem.ts",
@@ -83,6 +84,7 @@
     "verify:workbench-actions": "bun run scripts/verify-workbench-actions.ts",
     "verify:workbench-actions-ui": "bun run scripts/verify-workbench-actions-ui.ts",
     "verify:workbench-part-c": "bun run scripts/verify-workbench-part-c.ts",
+    "bird:email-test": "bun run scripts/bird-email-test.ts",
     "billing:reconcile": "bun run scripts/reconcile-purchases.ts",
     "smoke:billing": "bash ./scripts/smoke-billing.sh"
   },
